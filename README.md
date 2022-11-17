@@ -1,23 +1,7 @@
-# 概念/Terms
+# The Synoptic ADGE Principle
 
-## TOC
-
--   [ADGE](#ADGE)
--   [state](#state)
--   [uncertainty and certainty](#uncertainty%20and%20certainty)
--   [choice](#choice)
--   [layer level and hierarchy](#layer%20level%20and%20hierarchy)
--   measurement
--   可逆与不可逆
--   flow
--   self organization / 自组织
--   connection/relationship/link
--   [computation](#computation)
--   [information](#information)
--   causality
--   [layer level and hierarchy](#layer%20level%20and%20hierarchy)
--   emergence and creation
--   [entropy and energy](#entropy%20and%20energy)
--   [complexity](#complexity)
--   [path](#path)
--   [[Terms/CAS]]-complex adaptive system
+-   时空即关系，世界即网络。
+-   不确定性是世界的本源，事件的关联建立确定性。
+-   流生万物。
+-   **终极问题在于联接，如何建立并最大化联接。**
+-   事件联接为过程，确定性过程又封装为事件。
