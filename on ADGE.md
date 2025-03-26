@@ -1,4 +1,4 @@
-# {{on ADGE}}
+# on ADGE
 Date: [2017-12-23 Sat]
 Tags: #ADGE #information 
 
